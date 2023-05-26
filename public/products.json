@@ -1,0 +1,135 @@
+[
+
+  {
+    "id": 1,
+    "jobTitle": "Software Engineer",
+    "companyName": "Google",
+    "jobLocation": "Mountain View, CA",
+    "salary": "$120,000 - $200,000",
+    "workEnvironment": "On-site work",
+    "jobDescription": "Design and develop software applications for Google's products and services.",
+    "jobResponsibilities": [
+      "Collaborate with cross-functional teams to identify and solve complex software problems",
+      "Write clean, efficient, and well-documented code",
+      "Conduct code reviews and participate in design discussions",
+      "Contribute to the development of technical specifications and project plans",
+      "Continuously learn and stay up-to-date with emerging technologies and industry trends"
+    ],
+    "educationalRequirements": "Bachelor's or Master's degree in Computer Science or a related field",
+    "jobExperience": "3+ years of software engineering experience",
+    "email": "jobs@google.com",
+      "phone": "(555) 123-4567",
+      "website": "https://careers.google.com/",
+    "jobImage": "https://i.ibb.co/2ZYPWnD/icons8-google-480.png"
+  },
+  {
+    "id": 2,
+    "jobTitle": "Data Scientist",
+    "companyName": "Microsoft",
+    "jobLocation": "Redmond, WA",
+    "salary": "$100,000 - $150,000",
+    "workEnvironment": "Remote",
+    "jobDescription": "Use data analytics to drive business insights and decisions for Microsoft's products and services.",
+    "jobResponsibilities": [
+      "Develop and maintain data pipelines and analysis tools",
+      "Collaborate with cross-functional teams to identify and solve complex data problems",
+      "Design and implement statistical models and machine learning algorithms",
+      "Communicate insights and recommendations to stakeholders through visualizations and presentations",
+      "Stay up-to-date with emerging data technologies and industry trends"
+    ],
+    "educationalRequirements": "Bachelor's or Master's degree in Data Science, Statistics, or a related field",
+    "jobExperience": "3+ years of data analysis or data science experience",
+          "email": "jobs@microsoft.com",
+      "phone": "(555) 123-4567",
+      "website": "https://careers.microsoft.com/",
+    "jobImage": "https://i.ibb.co/RHq3Mpm/icons8-microsoft-480.png"
+  },
+  {
+    "id": 3,
+    "jobTitle": "UX Designer",
+    "companyName": "Apple",
+    "jobLocation": "Cupertino, CA",
+    "workEnvironment": "Full Time",
+    "salary": "$90,000 - $130,000",
+    "jobDescription": "Design user interfaces and experiences for Apple's products and services.",
+    "jobResponsibilities": [
+      "Collaborate with cross-functional teams to define and execute on design goals and strategies",
+      "Conduct user research and testing to inform design decisions",
+      "Create wireframes, prototypes, and visual designs",
+      "Work with engineering teams to ensure designs are implemented correctly",
+      "Stay up-to-date with emerging design technologies and industry trends"
+    ],
+    "educationalRequirements": "Bachelor's or Master's degree in Design, Human-Computer Interaction, or a related field",
+    "jobExperience": "3+ years of UX design experience",
+      "email": "jobs@apple.com",
+      "phone": "(555) 123-4567",
+      "website": "https://www.apple.com/jobs/us/",
+    "jobImage": "https://i.ibb.co/NZzcdpM/icons8-apple-logo-512.png"
+  },
+  {
+    "id": 11,
+    "jobTitle": "Product Manager",
+    "companyName": "Amazon",
+    "jobLocation": "Seattle, WA",
+    "workEnvironment": "Remote",
+    "salary": "$110,000 - $160,000",
+    "jobDescription": "Lead the development and launch of new products for Amazon's retail and e-commerce platforms.",
+    "jobResponsibilities": [
+      "Define product vision and strategy based on customer needs and market research",
+      "Collaborate with cross-functional teams to build and launch new products",
+      "Conduct A/B testing and analyze product performance data to inform product decisions",
+      "Communicate product plans, goals, and progress to stakeholders",
+      "Stay up-to-date with emerging product development methodologies and industry trends"
+    ],
+    "educationalRequirements": "Bachelor's or Master's degree in Business, Computer Science, or a related field",
+    "jobExperience": "5+ years of product management experience",
+      "email": "jobs@amazon.com",
+      "phone": "(555) 123-4567",
+      "website": "https://www.amazon.jobs/",
+    "jobImage": "https://i.ibb.co/269m7YJ/icons8-amazon-480.png"
+  },
+  {
+    "id": 12,
+    "jobTitle": "Front-End Developer",
+    "companyName": "Facebook",
+    "workEnvironment": "On-site work",
+    "jobLocation": "Menlo Park, CA",
+    "salary": "$100,000 - $150,000",
+    "jobDescription": "Develop and maintain front-end web applications for Facebook's products and services.",
+    "jobResponsibilities": [
+      "Write clean, efficient, and well-documented code using modern front-end web technologies",
+      "Collaborate with cross-functional teams to identify and solve complex web development problems",
+      "Conduct code reviews and participate in design discussions",
+      "Contribute to the development of technical specifications and project plans",
+      "Stay up-to-date with emerging web development technologies and industry trends"
+    ],
+    "educationalRequirements": "Bachelor's or Master's degree in Computer Science, Web Development, or a related field",
+    "jobExperience": "3+ years of front-end web development experience",
+      "email": "jobs@facebook.com",
+      "phone": "(555) 123-4567",
+      "website": "https://www.facebook.com/careers/",
+    "jobImage": "https://i.ibb.co/bmGRHgy/icons8-facebook-480.png"
+  },
+  {
+    "id": 13,
+    "jobTitle": "Marketing Manager",
+    "companyName": "Nike",
+    "workEnvironment": "Full Time",
+    "jobLocation": "Beaverton, OR",
+    "salary": "$90,000 - $130,000",
+    "jobDescription": "Develop and execute marketing campaigns for Nike's products and services.",
+    "jobResponsibilities": [
+      "Define target audiences and develop marketing strategies to reach them",
+      "Collaborate with cross-functional teams to create marketing materials and campaigns",
+      "Manage marketing budgets and track campaign performance metrics",
+      "Analyze market and industry trends to inform marketing decisions",
+      "Stay up-to-date with emerging marketing technologies and industry trends"
+    ],
+    "educationalRequirements": "Bachelor's or Master's degree in Marketing, Business, or a related field",
+    "jobExperience": "5+ years of marketing experience",
+      "email": "jobs@nike.com",
+      "phone": "(555) 123-4567",
+      "website": "https://jobs.nike.com",
+    "jobImage": "https://i.ibb.co/L6g3ZH8/icons8-nike-480.png"
+  }
+]
